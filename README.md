@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web developer having 3+ years of experience<br>
+A Fullstack web developer having 3+ years of experience in building scalabe applications<br>
 
 
 # 💻 Tech Stack:
